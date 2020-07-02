@@ -1,0 +1,22 @@
+.display-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.print{
+    border: 2px solid red;
+}
+
+.container{
+    height: 100vh;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.element{
+    display: inline;
+}
